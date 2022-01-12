@@ -1,5 +1,6 @@
 /* common style utilities */
 body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
     background-color:#F3F1FF;
 }
